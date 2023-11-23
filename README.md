@@ -1,6 +1,42 @@
-# 🚀 Getting started with Strapi
+## 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
+
+### Environment Variable
+`APP_KEYS`=fBysC1WkucsUqyymZzTPHg==,isEuNLv4g0FYMe0Kvvs5Zg==
+
+`API_TOKEN_SALT`=dinr7NF9CUAisQ==
+
+`ADMIN_JWT_SECRET`=Jp1hCI45FcRw==
+
+`TRANSFER_TOKEN_SALT`=tHI2DebcCCw==
+
+`DATABASE_CLIENT`=sqlite
+
+`DATABASE_FILENAME`=.tmp/data.db
+
+`JWT_SECRET`=9J0PxVuIzJ8Z7WXCgh6i9g==
+
+`CLOUDINARY_NAME` = dgvqi
+
+`CLOUDINARY_KEY` = 48629932
+
+`CLOUDINARY_SECRET` = lfjKSC6dZ6h7M
+
+`STRIPE_SECRET_KEY` = sk_test_51ODibrSTMkQ2c1uhTnhZIQqYrvk8wi9dRKwtK001fXUWy1q
+
+`CLIENT_BASE_URL` = https://ecommerce-frontend-hupm.onrender.com
+
+`DATABASE_PASSWORD`=TfOCB5xfcsh0zOLrzaygfk
+
+`DATABASE_USERNAME`=ecommeruser
+
+`DATABASE_NAME`=eco0
+
+`DATABASE_PORT`=52
+
+`DATABASE_HOST`=dpg-clf6j7pion-pocom
+
 
 ### `develop`
 
